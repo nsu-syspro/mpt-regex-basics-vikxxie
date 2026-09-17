@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "mpt"
+assignment: "regex-basics"
+owner:
+  username: "vikxxie"
+  id: 263387711
+  accepted_at: "2026-09-17T03:36:03Z"
+source:
+  owner: "nsu-syspro"
+  owner_id: 115493553
+  repo: "mpt-regex-basics"
+  branch: "main"
